@@ -1,4 +1,4 @@
-# SQL-Tasks-Appforms
+# SQL-Tasks-Training
 SQL Tasks of Appforms Developer Training
 
 1. To learn all the SQL concepts in portal.
